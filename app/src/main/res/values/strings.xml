@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+
+    <!--First page-->
+    <string name="welTit">Welcome on EasyMeal</string>
+    <string name="welStr">Choose the fork of prices you want</string>
+    <string name="rd1"> less than 5€ </string>
+    <string name="rd2">5€-20€</string>
+    <string name="rd3"> more than 20€ </string>
+
+
+
+
+    <string-array name="restList">
+        <item price="10">McDonald</item>
+        <item price="5">Paddocks</item>
+        <item price="12">Eden</item>
+        <item price="25">Highlvl</item>
+    </string-array>
+</resources>
